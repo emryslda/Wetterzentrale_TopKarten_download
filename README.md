@@ -2,7 +2,7 @@
 
 Simple bash scripts to download the wetterzentrale top karten of GFS and ECMWF for Europe
 
-In order to run the latest available pictures:
+In order to download the latest available pictures simply run:
 
 ```bash
 ./dwetter -m GFS,ECM 
